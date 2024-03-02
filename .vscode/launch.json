@@ -1,0 +1,162 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch b",
+            "request": "launch",
+            "mainClass": "b",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch butterfly_patteran",
+            "request": "launch",
+            "mainClass": "butterfly_patteran",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch diamand",
+            "request": "launch",
+            "mainClass": "diamand",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibneci",
+            "request": "launch",
+            "mainClass": "fibneci",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch floyds_tiangle",
+            "request": "launch",
+            "mainClass": "floyds_tiangle",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch funprogram",
+            "request": "launch",
+            "mainClass": "funprogram",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch half_pyramid",
+            "request": "launch",
+            "mainClass": "half_pyramid",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch half_pyramid_with_no",
+            "request": "launch",
+            "mainClass": "half_pyramid_with_no",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch hollow_ectangle",
+            "request": "launch",
+            "mainClass": "hollow_ectangle",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch hollow_rowmbus",
+            "request": "launch",
+            "mainClass": "hollow_rowmbus",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch inverted_half_pyramid",
+            "request": "launch",
+            "mainClass": "inverted_half_pyramid",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch inverted_pyramid",
+            "request": "launch",
+            "mainClass": "inverted_pyramid",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch inverted_with_no",
+            "request": "launch",
+            "mainClass": "inverted_with_no",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaplcemnt",
+            "request": "launch",
+            "mainClass": "javaplcemnt",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch no_pyramid",
+            "request": "launch",
+            "mainClass": "no_pyramid",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch palidrome",
+            "request": "launch",
+            "mainClass": "palidrome",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch pascal",
+            "request": "launch",
+            "mainClass": "pascal",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotated_degree",
+            "request": "launch",
+            "mainClass": "rotated_degree",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch solid_rhombus",
+            "request": "launch",
+            "mainClass": "solid_rhombus",
+            "projectName": "DSA placement_3b42d5dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch zero_one_triangle",
+            "request": "launch",
+            "mainClass": "zero_one_triangle",
+            "projectName": "DSA placement_3b42d5dd"
+        }
+    ]
+}
